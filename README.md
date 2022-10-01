@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lemux-one
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning python with django
+- 🌱 I’m currently improving my Python/Django & Java/SpringBoot skills
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 Reach me on Telegram as [@LemuxOne](https://t.me/LemuxOne)
 
