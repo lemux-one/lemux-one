@@ -3,6 +3,7 @@
 - 🌱 I’m currently improving my Python/Django & Java/SpringBoot skills
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 Reach me on Telegram as [@LemuxOne](https://t.me/LemuxOne)
+- 🔗 Check out my [website](https://lemux.one)
 
 <!---
 lemux-one/lemux-one is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
